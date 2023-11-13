@@ -7,7 +7,7 @@ pkg install nodejs
 npm install -g bash-obfuscate
 
 3)
-git clone
+git clone https://github.com/HsnRil04/Cara-encrypt-dan-Decrypt-/blob/main/README.md
 
 4)
 cd obfuscate
